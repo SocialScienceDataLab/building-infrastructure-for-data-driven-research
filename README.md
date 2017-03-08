@@ -13,7 +13,7 @@ However, there is also a lot of information which is only available in printed b
 This information has to be first digitized and then further processed to extract the text or data.
 The main focus of the talk is optical character recognition (OCR).
 We will see the OCR workflow in general, discuss some OCR software, and how you can use these tools practically.
-Building such an infrastructure before the actual research analysis can start, may need a reasonable amount of time and resources, or also be a project itself.
+Building such an infrastructure or performing these initial steps may need a reasonable amount of time and resources, or also be a project itself.
 The Mannheim University Library has in this area some infrastructure projects which are briefly mentioned.
 
 
