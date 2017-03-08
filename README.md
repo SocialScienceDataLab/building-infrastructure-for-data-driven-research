@@ -10,16 +10,16 @@
 
 Most methods for data-driven research (including Big Data, Data Science, and Digital Humanities) work primarily on text data or numbers.
 However, there is also a lot of information which is only available in printed books or newspapers.
-These information has to be first digitized and then further processed to extract the text or data.
+This information has to be first digitized and then further processed to extract the text or data.
 The main focus of the talk is optical character recognition (OCR).
-We will see the OCR workflow in general, discuss some OCR software, and how you can use them practically.
+We will see the OCR workflow in general, discuss some OCR software, and how you can use these tools practically.
 Building such an infrastructure before the actual research analysis can start, may need a reasonable amount of time and resources, or also be a project itself.
-The Mannheim University Library has in this area some infrastructre projects which are briefly mentioned.
+The Mannheim University Library has in this area some infrastructure projects which are briefly mentioned.
 
 
 ## Keywords
 
-* [optical character recoginition (OCR)](https://en.wikipedia.org/wiki/Optical_character_recognition)
+* [optical character recognition (OCR)](https://en.wikipedia.org/wiki/Optical_character_recognition)
 * infrastructure for research
 * [data-driven research](https://en.wikipedia.org/w/index.php?title=Data-driven_science)
 
@@ -33,6 +33,6 @@ The Mannheim University Library has in this area some infrastructre projects whi
 
 * https://github.com/tmbdev/ocropy
 * https://github.com/tesseract-ocr/tesseract
-* http://digi.bib.uni-mannheim.de/aktienfuehrer/
-* https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger//
+* https://digi.bib.uni-mannheim.de/aktienfuehrer/
+* https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/
 * https://www.bib.uni-mannheim.de/digitalisierung-juristische-texte/
