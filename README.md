@@ -28,13 +28,14 @@ The Mannheim University Library has in this area some infrastructure projects wh
 ## Slides
 
 * View HTML-presentation online:
+   * on GitHub pages: https://socialsciencedatalab.github.io/building-infrastructure-for-data-driven-research/
    * on slides.com: http://slides.com/zuphilip/ssdl-2017/#/
 * View and Download PDF:
    * on speakerdeck: https://speakerdeck.com/zuphilip/building-infrastructure-for-data-driven-research
-   * direct: /pdf/ssdl2017.pdf
-* Sources files:
-   * /docs/index.html content (CC-BY)
-   * /docs/css/theme/white-blue-montserrat.css layout info
+   * direct: [/pdf/ssdl2017.pdf](https://github.com/SocialScienceDataLab/building-infrastructure-for-data-driven-research/blob/master/pdf/ssdl17.pdf)
+* Source files:
+   * [/docs/index.html](https://github.com/SocialScienceDataLab/building-infrastructure-for-data-driven-research/blob/master/docs/index.html) content (CC-BY)
+   * [/docs/css/theme/white-blue-montserrat.css](https://github.com/SocialScienceDataLab/building-infrastructure-for-data-driven-research/blob/master/docs/css/theme/white-blue-montserrat.css) layout info
    * all other files in /docs from [reveal.js](https://github.com/hakimel/reveal.js) (MIT)
 
 
