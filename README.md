@@ -41,8 +41,19 @@ The Mannheim University Library has in this area some infrastructure projects wh
 
 ## Links
 
-* https://github.com/tmbdev/ocropy
-* https://github.com/tesseract-ocr/tesseract
-* https://digi.bib.uni-mannheim.de/aktienfuehrer/
-* https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/
-* https://www.bib.uni-mannheim.de/digitalisierung-juristische-texte/
+* OCR Software
+  * https://www.abbyy.com/de-de/recognition-server/
+  * https://github.com/tmbdev/ocropy
+  * https://github.com/tesseract-ocr/tesseract
+* OCR in general
+  * Links to awesome OCR projects: https://github.com/kba/awesome-ocr
+  * collected list of publications for OCR by @OCR-D-project: https://www.zotero.org/groups/ocr-d/items/
+* Some of our projects
+  * https://digi.bib.uni-mannheim.de/aktienfuehrer/
+  * https://digi.bib.uni-mannheim.de/periodika/reichsanzeiger/
+  * https://www.bib.uni-mannheim.de/digitalisierung-juristische-texte/
+  
+ ## Feedback, Questions, Discussion
+ 
+ Feel free to ask also questions here by opening up a [new issue](https://github.com/SocialScienceDataLab/building-infrastructure-for-data-driven-research/issues) and we can continue discussion.
+ 
