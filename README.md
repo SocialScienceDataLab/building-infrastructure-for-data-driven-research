@@ -27,7 +27,15 @@ The Mannheim University Library has in this area some infrastructure projects wh
 
 ## Slides
 
-*coming soon*
+* View HTML-presentation online:
+   * on slides.com: http://slides.com/zuphilip/ssdl-2017/#/
+* View and Download PDF:
+   * on speakerdeck: https://speakerdeck.com/zuphilip/building-infrastructure-for-data-driven-research
+   * direct: /pdf/ssdl2017.pdf
+* Sources files:
+   * /docs/index.html content (CC-BY)
+   * /docs/css/theme/white-blue-montserrat.css layout info
+   * all other files in /docs from [reveal.js](https://github.com/hakimel/reveal.js) (MIT)
 
 
 ## Links
