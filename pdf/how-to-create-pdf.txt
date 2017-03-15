@@ -1,0 +1,5 @@
+Download and install (in a sibling subfolder):
+https://github.com/astefanutti/decktape
+
+Then create a PDF from the HTML slides (using the relative path):
+./phantomjs decktape.js -s 1754x1240 ../docs/index.html ssdl17.pdf
